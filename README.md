@@ -22,3 +22,4 @@ Lesson 7
 3. (Briefly describe a lesson/concept learned in this lesson.)
 
 # Blanchette_lesson7
+# Blanchette_lesson7
